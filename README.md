@@ -60,6 +60,10 @@
 
     - Example: "The repository is at https://github.com/johndoe/my-library.git"
 
+---
+
+## for Admin use
+ 
 ###  Part 4: How Others Add It as a Submodule
 
   When someone receives your repository URL, they can add it as a submodule:
@@ -199,24 +203,6 @@
   - No incomplete status allowed at semester end
   - Webcam use in Zoom sessions is optional
   - Respect and professionalism required in all interactions
-
-  Campus Resources
-
-  Student Health Center
-
-  - Medical and mental health services available
-  - No cost to currently enrolled students
-  - Located: 2nd floor, Student Services Building
-  - Phone: 818-710-4270
-  - Website: http://www.piercecollege.edu/offices/health_center
-
-  Financial Aid
-
-  - Assistance available for books, supplies, fees, parking, etc.
-  - Website: http://www.piercecollege.edu/offices/financial_aid
-  - Email: pierce_finaid@piercecollege.edu
-  - Location: 2nd floor, Student Services Building
-  - Uses QLess virtual queue system
 
   Contact
 
