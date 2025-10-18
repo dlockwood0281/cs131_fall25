@@ -1,0 +1,4 @@
+[alias]
+    supdate = submodule update --remote --merge
+    spull = submodule foreach git pull origin main
+    sstatus = submodule foreach git status
