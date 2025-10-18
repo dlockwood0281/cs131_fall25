@@ -53,19 +53,3 @@
   9. Copy the repository URL
 
     - The URL format is: https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-
-  10. Share this URL with others
-
-    - Send them the full URL
-
-    - Example: "The repository is at https://github.com/johndoe/my-library.git"
-
----
-
-## Key Information to Share:
-
-  - Repository URL (e.g., https://github.com/username/repo-name.git)
-
-
-  That's it! The most important thing is the repository URL
-
