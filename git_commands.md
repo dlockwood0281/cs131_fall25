@@ -9,10 +9,10 @@ Here's a reorganized guide with clear sections and logical flow:
 cd class-project-main
 
 # Add a student's repository as a submodule
-git submodule add https://github.com/student1/project.git students/student1
+git submodule add https://github.com/student1/project.git student1_cs131
 
 # Commit the new submodule
-git add .gitmodules students/student1
+git add .gitmodules student1
 git commit -m "Add student1 submodule"
 
 # Push to remote
@@ -35,12 +35,12 @@ git push
 ### Update Specific Submodule
 ```bash
 # Navigate to specific submodule
-cd students/student1
+cd student1
 git pull origin main
 
 # Go back and commit the update
 cd ../..
-git add students/student1
+git add student1
 git commit -m "Update student1 submodule"
 git push
 ```
@@ -86,12 +86,12 @@ git submodule update --init --recursive
 ### Lock Submissions for Grading
 ```bash
 # Navigate to specific student submodule
-cd students/student1
+cd student1
 git checkout <commit-hash-at-deadline>
 
 # Return and save the state
 cd ../..
-git add students/student1
+git add student1
 git commit -m "Lock student1 submission for grading"
 ```
 
@@ -137,14 +137,14 @@ Add to your `~/.gitconfig`:
 ### Helpful .gitmodules Configuration
 Edit `.gitmodules` in your repository root:
 ```ini
-[submodule "students/student1"]
-    path = students/student1
+[submodule "student1"]
+    path = student1
     url = https://github.com/student1/project.git
     branch = main  # Track specific branch
     update = merge  # Use merge instead of checkout on update
     
-[submodule "students/student2"]
-    path = students/student2
+[submodule "student2"]
+    path = student2
     url = https://github.com/student2/project.git
     branch = main
     update = merge
