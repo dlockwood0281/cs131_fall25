@@ -36,6 +36,8 @@
 
     - Click "Create repository"
 
+    - add a file to the repository - something like test.txt that contains some text.
+
   6. Link your local repository to the remote
 
   `git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git`
