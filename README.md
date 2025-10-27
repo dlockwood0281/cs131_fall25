@@ -4,25 +4,9 @@
 
 ### Part 1: Create a Local Git Repository
 
-  1. Navigate to your project folder
+####  Option 1: Use the GitHub website
 
-  `cd C:\Users\username\Documents\dlockwood_cs131`
-
-  2. Initialize a Git repository
-
-  `git init`
-
-  3. Add your files to the repository
-
-  `git add .`
-
-  4. Create your first commit
-
-  `git commit -m "Initial commit"`
-
-###  Part 2: Push to Github
-
-  5. Create a remote repository
+  1. Create a repository
 
     - Log in to GitHub.com 
 
@@ -38,7 +22,28 @@
 
     - add a file to the repository - something like test.txt that contains some text.
 
-  6. Link your local repository to the remote
+#### Option 2: Use the command line
+
+  1. Navigate to your project folder
+
+for example:
+  `cd C:\Users\username\Documents\dlockwood_cs131`
+
+  2. Initialize a Git repository
+
+  `git init`
+
+  3. Add your files to the repository
+
+  `git add .`
+
+  4. Create your first commit
+
+  `git commit -m "Initial commit"`
+
+### Connect your local repository to the GitHub remote
+
+  2. Link your local repository to the remote
 
   `git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git`
 
