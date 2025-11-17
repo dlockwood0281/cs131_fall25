@@ -7,3 +7,6 @@
         path = hbondra_cs131
         url = https://github.com/HollyBondra/hbondra_cs131
         branch = main
+[submodule "nguyen_project"]
+	path = nguyen_project
+	url = https://github.com/AlexanderNguyenCS/my-project.git
