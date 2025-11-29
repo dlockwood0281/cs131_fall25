@@ -53,6 +53,8 @@
   # OS files
   Thumbs.db
   Desktop.ini
+  ._.DS_Store
+  .DS_Store
 
   # Temporary files
   tmp/
