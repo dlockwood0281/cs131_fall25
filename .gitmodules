@@ -8,3 +8,6 @@
 [submodule "dlockwood_cs131"]
 	path = dlockwood_cs131
 	url = https://github.com/dlockwood0281/dlockwood_cs131.git
+[submodule "gregCarlson_cs131"]
+	path = gregCarlson_cs131
+	url = https://github.com/GregCarlsonCS/CS131_SemesterProject
