@@ -11,3 +11,6 @@
 [submodule "dlockwood_cs131_presentation"]
 	path = dlockwood_cs131
 	url = https://github.com/dlockwood0281/dlockwood_cs131.git
+[submodule "moreno_cs131"]
+	path = moreno_cs131
+	url = https://github.com/JeffreyMoreno/CS-131-Semester-Presenation.git
