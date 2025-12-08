@@ -23,3 +23,6 @@
 [submodule "elsavosganian_cs131"]
 	path = elsavosganian_cs131
 	url = https://github.com/ElsaVosganianCS/cs131_semester_project
+[submodule "nramli_cs131"]
+	path = nramli_cs131
+	url = https://github.com/jmfaye08/nramli_cs131
