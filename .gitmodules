@@ -20,3 +20,6 @@
 [submodule "jaycee42_cs131"]
 	path = jaycee42_cs131
 	url = https://github.com/Jaycee42/LLM-Coding-Comparison
+[submodule "elsavosganian_cs131"]
+	path = elsavosganian_cs131
+	url = https://github.com/ElsaVosganianCS/cs131_semester_project
