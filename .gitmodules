@@ -14,3 +14,6 @@
 [submodule "moreno_cs131"]
 	path = moreno_cs131
 	url = https://github.com/JeffreyMoreno/CS-131-Semester-Presenation.git
+[submodule "dvelasco_cs131_presentation"]
+	path = dvelasco_cs131_presentation
+	url = https://github.com/DanielVelascoCS/AI-in-the-world
