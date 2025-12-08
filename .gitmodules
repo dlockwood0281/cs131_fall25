@@ -26,3 +26,6 @@
 [submodule "nramli_cs131"]
 	path = nramli_cs131
 	url = https://github.com/jmfaye08/nramli_cs131
+[submodule "harutpayaslayan_cs131"]
+	path = harutpayaslayan_cs131
+	url = https://github.com/HarutPayaslyan/CS-131-Semester-Project
