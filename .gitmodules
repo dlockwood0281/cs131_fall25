@@ -17,3 +17,6 @@
 [submodule "dvelasco_cs131_presentation"]
 	path = dvelasco_cs131_presentation
 	url = https://github.com/DanielVelascoCS/AI-in-the-world
+[submodule "jaycee42_cs131"]
+	path = jaycee42_cs131
+	url = https://github.com/Jaycee42/LLM-Coding-Comparison
