@@ -1,0 +1,134 @@
+Hey PerplexityAI, What is Project Nimbus?
+
+Project Nimbus is a $1.2 billion cloud computing contract signed in 2021 between the Israeli government and two major American technology companies: Google and Amazon . The contract's primary aim is to provide cloud computing infrastructure, artificial intelligence (AI), and various advanced technological services to Israeli government entities, including its military and defense establishments.
+
+​
+Objectives and Technology
+
+Project Nimbus involves establishing local, highly secure cloud sites within Israel. These cloud services are intended to handle government workloads in areas such as finance, healthcare, transportation, and education; however, the Israeli military and defense apparatus have been key stakeholders since the project's inception. The contract also provides Israeli authorities with capabilities such as AI-assisted surveillance, facial detection, object tracking, and sentiment analysis, among other advanced data processing tools.
+​
+
+​
+Criticism and Controversy
+
+Project Nimbus has drawn significant criticism from human rights organizations, tech workers, and United Nations experts, who argue that the technology could be (and, according to some reports, is) used to facilitate surveillance, targeting, and possible human rights violations in the Occupied Palestinian Territories, particularly Gaza. Insider statements and investigative reports have alleged that the cloud and AI technologies powered by these companies have assisted the Israeli military in selecting targets and conducting surveillance at an unprecedented scale.
+​
+
+​
+Employee and Public Protests
+
+The project has sparked widespread protests and campaigns, particularly among employees of Google and Amazon , who have demanded the termination of their companies’ involvement in Project Nimbus over ethical and human rights concerns. These protests have included sit-ins, public letters, resignations, and organized advocacy campaigns under banners such as #NoTechForApartheid.
+​
+Summary Table
+Aspect	Description
+Partners	Google, Amazon
+Value	$1.2 billion
+Start Year	2021
+Purpose	Cloud and AI infrastructure for Israeli government/military
+Key Concerns	Human rights, surveillance, AI-assisted military operations
+Employee Response	Protests, resignations, advocacy campaigns
+Duration	Initial 7-year term, extendable
+
+Project Nimbus remains one of the most controversial tech industry-government collaborations of recent years due to its significant ethical and geopolitical implications.
+
+Sources Provided:
+https://laborforpalestine.net/2024/08/14/what-is-project-nimbus-no-tech-for-apartheid/
+https://www.eff.org/deeplinks/2024/12/amazon-and-google-must-keep-their-promises-project-nimbus
+https://www.instagram.com/p/C-pv2CzOfso/?hl=en
+https://en.wikipedia.org/wiki/Project_Nimbus
+https://laborforpalestine.net/2024/08/14/what-is-project-nimbus-no-tech-for-apartheid/
+https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-selected-to-provide-cloud-services-to-the-state-of-israel
+https://www.aljazeera.com/news/2024/4/23/what-is-project-nimbus-and-why-are-google-workers-protesting-israel-deal
+https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code
+https://www.gametomo.co.jp/project-nimbus
+
+
+********************************************************
+
+********************************************************
+
+ What is it like to work at an Amazon warehouse in Arizona?
+
+ Working at an Amazon warehouse in Arizona is typically fast-paced, physically demanding, and highly structured, with experiences varying a lot by site and shift. Many workers describe it as “easy but exhausting” work: the tasks themselves are simple and repetitive, but the pace, quotas, and long hours can be tough on the body.
+
+​
+Typical work and schedule
+
+Most roles involve picking, stowing, packing, or loading, which means being on your feet for 8–12 hours, walking long distances, lifting boxes, and doing the same motions repeatedly. Common schedules are four 10-hour shifts or three 12-hour overnight shifts, including weekends or nights, especially at large Phoenix- and Tucson-area facilities.
+
+​
+Pay, benefits, and perks
+
+Workers in Arizona warehouses often report that the pay is better than many local entry-level jobs and that benefits (health insurance, tuition support, and paid time off) start relatively quickly. Some employees appreciate predictable hours, overtime opportunities during peak seasons, and the option to transfer or move up to roles like process assistant if performance is strong.
+
+​
+Work environment and management
+
+Reviews from Phoenix, Tucson, Chandler, and Glendale describe the environment as very metrics-driven, with constant monitoring of productivity and time off task, which some find stressful or anxiety-inducing. Feedback on management is mixed: some sites are described as supportive and organized, while others mention favoritism, inconsistent rules, or managers who focus on numbers more than workers’ well-being.
+
+​
+Physical and mental strain
+
+Many Arizona warehouse workers mention sore feet, back and joint pain, and general exhaustion, especially in the first weeks or on longer shifts. Mentally, some describe the work as monotonous or “robotic,” and say the combination of high quotas, short breaks, and surveillance can feel draining over time.
+
+​
+Who it tends to suit
+
+People who tend to do better in these roles usually:
+
+    Are okay with repetitive tasks and strict routines.
+
+​
+
+Can handle standing, walking, and lifting for most of the shift.
+
+Value steady pay and benefits more than having a flexible or creative job.
+
+    ​
+
+If you want, a next step would be to look up reviews for the specific Arizona facility you’re considering, since conditions can differ meaningfully between buildings.
+
+https://www.indeed.com/cmp/Amazon-Warehouse-2/reviews?fcountry=US&floc=Phoenix%2C+AZ&ftext=short
+https://forum.level1techs.com/t/working-at-amazon/49063
+https://www.reddit.com/r/Tucson/comments/17gpfv6/how_does_the_amazon_warehouse_in_tucson_treat_its/
+https://johnagliata.com/what-its-really-like-to-work-in-an-amazon-warehouse/
+
+*********************************************************
+
+*********************************************************
+
+How was Google founded?
+
+Google was founded in 1998 by Larry Page and Sergey Brin, who were PhD students in computer science at Stanford University. It grew out of their earlier research project, a search engine called “BackRub,” which used a new ranking system based on how many other pages linked to a webpage (what became the PageRank algorithm).
+
+​
+Origins at Stanford
+
+Page and Brin began collaborating in 1996 on BackRub, running it on Stanford servers and testing how link structures could measure a page’s importance. Their prototype search engine quickly showed it could produce more relevant results than existing search tools, attracting attention within the university.
+
+​
+Incorporation and first funding
+
+In 1998, they registered the domain google.com and formally incorporated the company Google in a rented garage in Menlo Park, California, owned by Susan Wojcicki. An early turning point was a $100,000 check from Sun Microsystems co‑founder Andy Bechtolsheim, followed by roughly $1 million from other investors, friends, and family to get the startup off the ground.
+
+​
+Early growth as a business
+
+With this funding, Google hired its first employees, moved into small offices in Palo Alto in 1999, and began scaling its infrastructure to handle rapidly growing search traffic. Around this time, the founders added a business model based on unobtrusive text ads tied to search keywords, which allowed the company to generate significant revenue while keeping the interface simple.
+
+​
+From startup to major company
+
+By 2003, Google had moved into a larger campus in Mountain View (later called the Googleplex) and was already one of the web’s dominant search engines. In 2004, it went public in an initial public offering that valued the company in the tens of billions of dollars, cementing its transition from a Stanford research project into a global technology company.
+
+Sources Provided:
+https://en.wikipedia.org/wiki/Google
+https://en.wikipedia.org/wiki/History_of_Google
+https://about.google/company-info/our-story/
+https://www.britannica.com/money/Google-Inc
+https://www.upgrow.io/blog/how-old-is-google-search-engine-history
+https://www.officetimeline.com/blog/google-history-timeline
+https://www.ebsco.com/research-starters/history/google-founded
+https://www.codemotion.com/magazine/infographics/the-story-of-google-infographic/
+https://sage.agency/blog/google-history-timeline/
+https://www.foxbusiness.com/technology/how-google-was-founded

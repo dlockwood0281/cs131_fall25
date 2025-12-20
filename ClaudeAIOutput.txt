@@ -1,0 +1,76 @@
+Hey ClaudeAI, What is Project Nimbus?
+
+Project Nimbus is a $1.2 billion cloud computing contract between the Israeli government and Google and Amazon, announced in April 2021 .The contract provides Israeli government agencies with cloud computing services, including artificial intelligence and machine learning capabilities.
+
+Key aspects of the contract include:
+Services provided: Google Cloud Platform and Amazon Web Services establish local cloud sites that keep information within Israel's borders under strict security guidelines. According to Google, the services are officially for workloads related to finance, healthcare, transportation, and education.
+
+Controversy: The project has generated significant controversy and employee protests at both companies. Employees voice concern over how the technology will enable further surveillance of Palestinians and unlawful data collection. Recent reporting reveals that leaked documents from Google suggest that, even before the contract was signed, Google's lawyers were aware that Project Nimbus could be used to enable human rights violations in the Gaza Strip and elsewhere.
+
+Employee actions: In April 2024, dozens of employees participated in sit-ins at Google's New York and Sunnyvale headquarters to protest the contract, resulting in 28 employees being fired, with total related staff cuts eventually reaching 50.
+
+Contract terms: The terms Israel set for the project contractually forbid Amazon and Google from halting services due to boycott pressure, and recent investigations have revealed other unusual provisions in the agreement.
+
+Sources Provided:
+https://en.wikipedia.org/wiki/Project_Nimbus
+https://www.aljazeera.com/news/2024/4/23/what-is-project-nimbus-and-why-are-google-workers-protesting-israel-deal
+https://www.972mag.com/project-nimbus-contract-google-amazon-israel/
+https://medium.com/@notechforapartheid/correcting-the-record-facts-and-myths-about-project-nimbus-91cf9ff8bbf4
+https://www.geekwire.com/2025/internal-memo-microsoft-creates-new-way-for-workers-to-flag-concerns-after-gaza-surveillance-probe/
+https://www.gov.il/en/pages/aboutnimbus
+https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-selected-to-provide-cloud-services-to-the-state-of-israel
+https://www.notechforapartheid.com/
+https://oecd.ai/en/dashboards/policy-initiatives/project-nimbus-national-cloud-infrastructure-3871
+https://store.steampowered.com/app/257030/Project_Nimbus_Complete_Edition/
+
+
+********************************************************
+
+********************************************************
+
+ How is the ceasefire in Gaza going?
+
+The Gaza ceasefire situation is complex and contested. Here's the current status:
+Ceasefire Status
+A ceasefire went into effect on October 10, 2025. following a peace plan brokered by the Trump administration. All 20 remaining living Israeli hostages were released by Hamas and hundreds of Palestinian prisoners were released by Israel as part of the first phase
+
+However, the ceasefire is fragile and progress has stalled:
+Ongoing violence: Despite the agreement, 280 Palestinians have been killed and 672 injured since the ceasefire began, according to latest Gaza Ministry of Health data. UNICEF reports that 67 children have been killed during the ceasefire, with two children killed every day on average.
+
+Disputed violations: Both sides accuse each other of violating the agreement. The Government Media Office in Gaza reports Israel has violated the ceasefire at least 393 times from October 10 to November 20, while the IDF claims Hamas and allied groups have violated it at least 18 times.
+
+Netanyahu's position: Israeli Prime Minister Benjamin Netanyahu stated on November 10 that the war "has not ended," claiming Israel's enemies are rearming.
+
+Stalled progress: The ceasefire hasn't moved to its second phase. Israel is insisting on the return of remains of all deceased hostages, but four bodies have yet to be returned. Meanwhile, Israel continues to block vital humanitarian aid, with only half the required food aid currently reaching Gaza according to the World Food Programme.
+
+Many Palestinians describe this as feeling like "a pause rather than a recovery"
+
+Sources Provided:
+https://en.wikipedia.org/wiki/Timeline_of_the_Gaza_war_(3_October_2025_%E2%80%93_present)
+https://www.fdd.org/analysis/2025/11/07/palestinian-terror-groups-have-violated-gaza-ceasefire-at-least-18-times-since-implementation-idf-claims/
+https://en.wikipedia.org/wiki/2025_Gaza_war_ceasefire
+https://news.un.org/en/story/2025/11/1166420
+https://www.aljazeera.com/news/2025/11/19/despite-ceasefires-in-gaza-and-lebanon-the-war-isnt-over-for-netanyahu
+https://www.npr.org/2025/11/12/nx-s1-5604351/gaza-ceasefire-is-holding-one-month-on-but-progress-is-stalled
+https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers
+https://www.npr.org/2025/11/17/g-s1-98183/un-us-gaza-international-stabilization-force
+https://www.longwarjournal.org/archives/2025/11/hamas-continues-to-return-hostage-remains-as-gaza-ceasefire-holds.php
+https://www.npr.org/2025/11/12/nx-s1-5607232/a-month-into-the-ceasefire-in-gaza-whats-next
+
+*********************************************************
+
+*********************************************************
+
+How was Google founded?
+
+Google was founded by Larry Page and Sergey Brin in 1998 while they were Ph.D. students at Stanford University.
+The story began in 1995 when Page and Brin met at Stanford. Page was considering the university for graduate school, and Brin, already a student there, was assigned to show him around. They initially disagreed on most topics but soon began collaborating on a research project.
+Their breakthrough came from rethinking how search engines worked. While other search engines at the time ranked results mainly by counting how many times search terms appeared on a page, Page and Brin developed an algorithm called PageRank. This innovative approach ranked web pages based on the number and quality of links pointing to them - essentially treating links as "votes" for a page's importance and relevance.
+They initially called their search engine "BackRub" because it analyzed backlinks to websites. In 1997, they renamed it "Google," a play on the mathematical term "googol" (the number 1 followed by 100 zeros), reflecting their mission to organize the vast amount of information on the web.
+Google was officially incorporated on September 4, 1998, in a friend's garage in Menlo Park, California. Their first funding came from Andy Bechtolsheim, co-founder of Sun Microsystems, who wrote them a check for $100,000 before Google was even officially a company.
+The search engine quickly gained popularity due to its superior results and clean, simple interface. This eventually grew into the tech giant we know today, though its core search business still relies on those original insights about ranking web pages by their interconnections.
+
+
+
+
+
