@@ -69,3 +69,5 @@
   # Gemfile.lock
 
   scripts/*-local.ps1
+  .history/
+  *code-workspace
