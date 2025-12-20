@@ -1,0 +1,27 @@
+Hello, I'm Nicholas and this presentation is going to be about LLMs, and how they exactly answer user prompts.
+
+A LLM is a large language model. To simplify things, these models kind of work as a word predictor. LLMs like ChatGPT are able to make accurate predictions that give coherent  responses to prompts because they are trained on extremely large amounts of text, Through that, it can learn proper grammar and reasoning which lets it form useful responses. When the model gets an prompt, it receives any additional context and the prompt. That information is processed into tokens, which are basically just numbers. Then, when the model is creating a response, it’s predicting what the next, most probable token should be over and over again, based on all previous context. And eventually, all those tokens are converted into words or whatever format, and given to the user.
+
+For example, this could be a LLM that is meant to auto-complete the next following lines of a novel when given a passage from the user.The LLM will take all the context given by the creator and the user input to generate the most likely token. Then, that token is added back to the prompt where the next most likely token is generated, and so on and so forth, until a complete response is made.
+
+LLMs get trained in multiple stages, beginning with pre-training. Here, the model starts random guesses and compares it to the actual text. The output of the LLM depends on its parameters, and it adjusts these parameters to reduce the difference between a prediction and the correct outcome. This gradually increases the chances of choosing the correct last word of a phrase, compared to other words. At this point, the LLM can only autocomplete sentences but can’t follow instructions or have a conversation. 
+So in order to change this, LLMs can undergo fine-tuning, where they are trained on specialized datasets based on their task. These datasets are formatted to show the LLM the exact type of input and output it should produce. For instance, to make the LLM respond to instructions like ChatGPT, specific instruction and response data are used for training.
+Reinforcement learning from human feedback is also used, as it makes sure the LLM is producing useful responses. Its generated output gets judged by people as helpful or unhelpful, which helps the LLM refine its parameters even more. 
+
+So large language models depend on their training set to answer user given prompts. But how LLMs answer questions about things not in their training set. Well, there’s a couple options.
+
+One option of doing this is called RAG, which is retrieval augmented generation. First the LLM is given a prompt from the user. If the LLM needs more information, it will ask an external knowledge base to retrieve it any extra context that it thinks it needs. Then, an augmented prompt is made from the new, added context, which the LLM can now give a proper response to.
+
+The other option is CAG, which is cache augmented generation. In this case, the entire knowledge base is loaded in upfront and will be used as context for each prompt. Basically, the LLM will have access to all information, not just things it deems necessary to know. Before it receives a prompt, the LLM will have to process all that extra information and then stores the keys and values to that compressed info, into the key value cache, or KV cache. So now when it’s asked a prompt, all of the stuff in the KV cache is tacked onto it and it uses all that info to make its response. And when given any future prompts, the LLM doesn’t have to process all the info in the knowledge base again because the cache already has all that in it.
+
+So let's talk about the pros and cons of each of these methods. One benefit of RAG is that it lets you use large data sets. You can put as much data as you want, as long as it fits in your database. On the other hand, CAG is limited by however much info can fit in the LLM’s context window, since it needs to use that info for each prompt. 
+You can also update new information easily with RAG since you can just put in new stuff in your database or get rid of outdated info with minimal downtime to the LLM. Compared to CAG, whenever there’s a change to the knowledge base, the LLM will have to re-process all that information. Using RAG will also let the LLM have less unrelated data , depending on how well its receiver chooses relevant info. Being bloated with too much data can confuse the LLM and make its responses less accurate. But, if the receiver doesn’t do a good job getting the relevant info, that would also make the LLM less accurate.
+
+Moving on to CAG, its main benefit is that it doesn’t need to retrieve any data like RAG does. In certain situations, this can make it faster when computing repeated responses. This is especially good when dealing with static knowledge bases or things that are rarely updated, because then the LLM won’t have to waste time processing the database often. It also always guarantees the LLM will have the relevant data to answer to prompt. Of course, having too much data could be an issue, but instead of RAG, which lets its receiver parse through all the data to find what’s useful, CAG passes that responsibility straight to the LLM.
+
+
+
+
+
+
+
