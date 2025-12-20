@@ -1,0 +1,3 @@
+# AI-in-the-world
+CS131 Semester Presentation
+My presentation explores real-world applications of Artificial Intelligence across several major industries, including healthcare, transportation, finance, retail, and manufacturing. I discuss how AI systems analyze medical data, enable autonomous driving, detect fraud, improve product recommendations, and automate manufacturing. The presentation highlights both the benefits of AI and the ethical concerns surrounding bias, transparency, and safety. Overall, it emphasizes how AI technologies are reshaping everyday life and why understanding AI is important for the future.
