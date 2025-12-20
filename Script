@@ -1,0 +1,108 @@
+SLIDE 1 — Title 
+
+CUDA: Compute Unified Device Architecture 
+
+
+CUDA_ Compute Unified Device Ar… 
+
+
+
+Hi there. I am Harut Payaslyan and today I am going to give you a presentation on CUDA which is also known as Compute Unified Device Architecture which is my semester project. Now, CUDA is NVIDIA’s platform which allows us to utilize NVIDIA hardware for high performance computing and during this presentation, I am going to demonstrate to you, what exactly CUDA is and also how it functions and even also why it has become so popular for high end performance in, for example, AI or even science, medicine, and much more.
+
+
+SLIDE 2 — What is CUDA? 
+
+CUDA_ Compute Unified Device Ar… 
+
+
+
+Now, first of all, the first question that might appear is: what is CUDA? Now CUDA, as I stated before, is a parallel computing platform and even also a programming model which is developed by NVIDIA which allows developers to leverage the thousands of cores inside of a GPU for general purpose computing and not just limited to graphics. And CUDA was introduced in 2006 and since its introduction, it has drastically changed the performance of, even for example, GPU acceleration because CUDA offers parallel computing through widely used languages such as C, C++ and also Python. CUDA is widely used because it allows everyday developers to code in these parallel languages and then programs can be executed across thousands of lightweight GPU threads.
+
+
+SLIDE 3 — GPU Architecture Advantage 
+
+CUDA_ Compute Unified Device Ar… 
+
+
+
+Now one of the other advantages of CUDA, which makes it a very powerful tool for performance, is the underlining GPU architecture of it. Modern day GPUs contain thousands of small efficient cores that are designed specifically for highly parallel workloads and even also high bandwidth memory, which is very key because it needs to move extremely large amounts of data very quickly in comparison to a CPU. Another key concept is SIMT, or also Single Instruction Multiple Thread. This simply means that one single instruction is executed across multiple threads at the same time, which makes it perfect for these type of workloads such as deep learning, even image processing or even scientific simulations and any other workloads that have massive amounts of data.
+
+
+SLIDE 4 — CUDA Programming Model 
+
+CUDA_ Compute Unified Device Ar… 
+
+
+
+CUDA actually uses a model that’s centered around a kernel. Now a kernel is just a regular function that runs on the GPU rather than the CPU. The overall flow of CUDA programming includes the following steps. First, the developer needs to write a kernel which simply describes what every thread needs to do. Second, the developer needs to allocate the GPU memory through the use of specific functions such as cudaMalloc. Third, the developer needs to transfer this data from CPU memory to GPU memory. Next, the kernel is launched using a grid and block configuration, which describes how many threads the kernel needs to run. And finally, after the GPU is done with the computing, the results need to be copied from GPU back to CPU and then the memory that has been used on the GPU also needs to be freed. So this model allows the developer to have a granular control over parallel executions.
+
+
+SLIDE 5 — Thread Hierarchy 
+
+CUDA_ Compute Unified Device Ar… 
+
+
+
+CUDA works through a hierarchy of thread blocks and grids and a thread is the simplest execution unit. Threads are then organized into blocks which can be synchronized and share even also fast memory. Then, the blocks are organized into a grid which represents the entire kernel launch. So this fits into the GPUs hardware design, where each block is then scheduled onto Streaming Multiprocessors, and then the threads inside of the block execute in warps, where a warp is a group of 32 consecutive threads. So, understanding this type of hierarchy is actually very key because the way the threads are being grouped within threads blocks and then block grid, this actually effects memory access, even performance and also scalability.
+
+
+SLIDE 6 — Memory Hierarchy in CUDA 
+
+CUDA_ Compute Unified Device Ar… 
+
+
+
+CUDA has a very detailed memory hierarchy. Now, on the top of this hierarchy, we have the global memory which is very large but also very slow to access. Below the global memory, we have shared memory which is very fast in comparison to the global memory and it is also shared by all the threads within a block and this is actually one of the most important tools for optimization. We then have each of the threads which have their own very fast registers. This is even also the fastest memory possible but the number of these available is actually limited. CUDA also has constant memory and even also texture memory, which both are cached, optimized for specific types of lookup patterns. So mastering this type of memory hierarchy is actually extremely key because this is key to writing high performance CUDA applications.
+
+
+SLIDE 7 — Real-World Applications 
+
+CUDA_ Compute Unified Device Ar… 
+
+
+
+CUDA is used within a massive variety of applications. For example, in medical imaging, it can accelerate CT reconstruction, MRI and help doctors create 3D imagery in a much faster manner. Deep learning uses CUDA to train the neural networks for a wide variety of applications such as, for example, even also computer vision and even natural language processing. CUDA also accelerates high-frequency trading and financial analysis such as Monte Carlo simulations and even also large scale risk modeling and even scientific computing where CUDA helps simulate even also weather, molecular dynamics, fluid flow, and even climate modeling. So CUDA has become the foundation for many modern day computational industries.
+
+
+SLIDE 8 — Performance Comparison 
+
+CUDA_ Compute Unified Device Ar… 
+
+
+
+This graph illustrates just how much of a performance advantage GPU computing has over CPUs. So workload such as matrix multiplication, even also image processing, neural network training, and even also molecular dynamics all see large performance increases when they are executed within CUDA. GPUs offer, for example, 10x, 50x, 100x speeds when even also depending on the optimization levels, these types of speeds can be achieved and these are the exact reasons for CUDA being so centralized even also in research labs, artificial intelligence companies and also engineering fields.
+
+
+SLIDE 9 — Optimization Strategies 
+
+CUDA_ Compute Unified Device Ar… 
+
+
+
+So although CUDA can provide the developer with amazing performance levels, the key is to understand the optimization strategies that need to be applied in order to truly unlock the GPUs full power. So, for example, one of the very key optimizations which is also called memory coalescing. So memory coalescing means that the threads need to access memory in very predictable sequential patterns. Another strategy is called occupancy optimization, where a developer adjusts block sizes, register usages and even shared memory in order to maximize the number of threads that can be run on the GPU at the same time. And even also another key strategy is to actually reduce the warp divergence. Warp divergence happens when the threads inside of the same warp take multiple different paths of codes. Tools such as NVIDIA Nsight can help the developers to profile and optimize these very key kernels.
+
+SLIDE 10 — CUDA Setup & First Steps 
+
+CUDA_ Compute Unified Device Ar… 
+
+
+
+CUDA, the first steps towards it, begin with even also CUDA Toolkit. CUDA Toolkit is the one which is installed which includes the nvcc compiler and also NVIDIA Nsight which is also recommended to even also profile and debug even also the performance. So, NVIDIA provides a large list of CUDA libraries, for example, CUDA optimized linear algebra in the form of cuBLAS and also CUDA optimized signal processing even also in the form of cuFFT.
+
+For learning resources, NVIDIA even also has a Developer Zone, CUDA Programming Guide and even also online courses can be used such as, for example, Udacity, Coursera and so on. Now, most of the people start off with some basic very basic examples which is even also vector addition and then even also move on to other advanced applications.
+
+SLIDE 11 — Important Lessons 
+
+CUDA_ Compute Unified Device Ar… 
+
+
+
+So, there are three very key lessons that need to be considered. The first key lesson is that CUDA unlocks thousands of parallelism, which actually gives the developer the access to thousands of GPU cores for computation. The second very key lesson is that, even also CUDA makes parallel programming even more accessible because it actually builds on familiar C and even C++ syntax. The final very key lesson is that optimization is actually extremely very key. Understanding of threads, memory structures and even also GPU architecture is actually what separates a basic CUDA program from the high-performance one. CUDA has truly been able to revolutionize the fields such as even AI or even also scientific computing and also as more and more applications become even data hungry, GPU programming is becoming even more and more required.
+
+SLIDE 12 — The End 
+
+CUDA_ Compute Unified Device Ar… 
+
+
+
+Thank you for watching.
